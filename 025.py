@@ -33,3 +33,14 @@ else:
     print(f'Opção inválida!')
 
 
+# if computador == usuario:
+# print('Empate')
+
+# elif (computador == 1 and usuario == 2) or \
+#      (computador == 2 and usuario == 3) or \
+#      (computador == 3 and usurio ==  1):
+#   print('Você ganhou!')
+
+
+# else:
+#print('Você perdeu!')

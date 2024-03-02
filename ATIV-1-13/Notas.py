@@ -17,7 +17,7 @@ print(f'Sua idade é {Idade_Nova} ')
 '''
 
 #Strings
-
+'''
 Nome = 'Mariana Gomes'
 print(Nome[0])
 print(Nome[0:4])
@@ -34,3 +34,18 @@ print(f'{mai} e {min}')
 Name = input('Digite seu nome: ').strip()
 
 print(Name)
+
+
+
+for contador in range (1, 10):
+    print('*'),
+
+for contador in range (1, 10):
+    print(contador, end='')
+'''
+
+soma = 0
+for i in range(1, 11):
+    idade = int(input('Digite sua idade: '))
+    soma= soma + idade
+    print(soma)

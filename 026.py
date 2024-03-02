@@ -12,3 +12,5 @@ elif imc <= 24.9:
     print(f'Peso ideal.')
 else:
     print(f'Peso acima do IMC ideal.')
+
+
