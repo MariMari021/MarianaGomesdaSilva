@@ -4,3 +4,12 @@ numero = int(input('Digite um número: '))
 for multi in range (1, 11):
     multi = numero * multi
     print(multi)
+
+
+'''
+numero = int(input('Digite um número: '))
+
+for ele in range(1, 11):
+print(f'{numero} X {ele} = {numero * ele}')
+
+'''
